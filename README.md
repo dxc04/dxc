@@ -15,11 +15,11 @@ Dev buddy for tooling and comfort
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g @datay/dxc
+$ npm install -g dxc
 $ dxc COMMAND
 running command...
 $ dxc (-v|--version|version)
-@datay/dxc/0.0.0 linux-x64 node-v12.18.1
+dxc/0.0.0 linux-x64 node-v12.18.1
 $ dxc --help [COMMAND]
 USAGE
   $ dxc COMMAND
