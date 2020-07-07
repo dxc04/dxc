@@ -1,7 +1,7 @@
 {
   "name": "@datay/dxc",
   "description": "Dev buddy for tooling and comfort",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Dixie Philamerah Atay @dxc04",
   "bin": {
     "dxc": "./bin/run"

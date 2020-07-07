@@ -19,7 +19,7 @@ $ npm install -g @datay/dxc
 $ dxc COMMAND
 running command...
 $ dxc (-v|--version|version)
-@datay/dxc/0.0.2 linux-x64 node-v12.18.1
+@datay/dxc/0.0.3 linux-x64 node-v12.18.1
 $ dxc --help [COMMAND]
 USAGE
   $ dxc COMMAND
@@ -42,7 +42,7 @@ USAGE
   $ dxc advice
 ```
 
-_See code: [src/commands/advice.ts](https://github.com/dxc04/dxc/blob/v0.0.2/src/commands/advice.ts)_
+_See code: [src/commands/advice.ts](https://github.com/dxc04/dxc/blob/v0.0.3/src/commands/advice.ts)_
 
 ## `dxc help [COMMAND]`
 
@@ -70,7 +70,7 @@ USAGE
   $ dxc inspire
 ```
 
-_See code: [src/commands/inspire.ts](https://github.com/dxc04/dxc/blob/v0.0.2/src/commands/inspire.ts)_
+_See code: [src/commands/inspire.ts](https://github.com/dxc04/dxc/blob/v0.0.3/src/commands/inspire.ts)_
 
 ## `dxc share`
 
@@ -84,5 +84,5 @@ OPTIONS
   -n, --name=advice|inspire  What to share
 ```
 
-_See code: [src/commands/share.ts](https://github.com/dxc04/dxc/blob/v0.0.2/src/commands/share.ts)_
+_See code: [src/commands/share.ts](https://github.com/dxc04/dxc/blob/v0.0.3/src/commands/share.ts)_
 <!-- commandsstop -->
