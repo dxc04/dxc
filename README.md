@@ -33,7 +33,7 @@ COMMANDS
 * [`dxc help [COMMAND]`](#dxc-help-command)
 * [`dxc advice`](#dxc-advice)
 * [`dxc inspire`](#dxc-inspire)
-* [`dxc share [FILE]`](#dxc-share-file)
+* [`dxc share`](#dxc-share)
 
 ## `dxc help [COMMAND]`
 
@@ -80,12 +80,12 @@ describe the command here
 
 ```
 USAGE
-  $ dxc share [FILE]
+  $ dxc share [-n=advice, -n=inspire]
 
 OPTIONS
   -f, --force
   -h, --help       show CLI help
-  -n, --name=name  name to print
+  -n, --name=name  the command to run
 ```
 
 _See code: [src/commands/share.ts](https://github.com/dxc04/dxc/blob/v0.0.0/src/commands/share.ts)_
