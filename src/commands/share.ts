@@ -1,6 +1,6 @@
 import {Command, flags} from '@oclif/command'
-import Advice from './advice.ts'
-import Inspire from './inspire.ts'
+import Advice from './advice'
+import Inspire from './inspire'
 
 const SHARE_OPTIONS = ['advice', 'inspire']
 

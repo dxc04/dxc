@@ -1,5 +1,5 @@
 import {Command} from '@oclif/command'
-import {Quote, QuoteService} from '../lib/quote.ts'
+import {Quote, QuoteService} from '../lib/quote'
 import {hostname} from 'os'
 import * as chalk from 'chalk'
 

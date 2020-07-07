@@ -1,5 +1,5 @@
 import {Command, flags} from '@oclif/command'
-import {AdviceSlip, AdviceService} from '../lib/advice.ts'
+import {AdviceSlip, AdviceService} from '../lib/advice'
 import {hostname} from 'os'
 import * as chalk from 'chalk'
 
